@@ -1,2 +1,2 @@
 # FieldOfView
-UNITY URP中的GPU可视化视野，避免传统的射线检测做法
+UNITY URP 中的 GPU 可视化视野，避免了传统的射线检测方式
